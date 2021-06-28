@@ -9,8 +9,10 @@ This Project mainly focuses on analyzing the fatcors that could possibly affect 
 
 ## Tech used
 Built with plotly
+
 ## Features
 Map, bar chart, sunburst chart, and an interactive dashboard are used in this project to demonstrate the best visualization.
+
 ##Installation
 import pandas as pd
 import streamlit as st
