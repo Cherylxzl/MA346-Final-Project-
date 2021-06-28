@@ -14,9 +14,9 @@ Built with plotly
 Map, bar chart, sunburst chart, and an interactive dashboard are used in this project to demonstrate the best visualization.
 
 ## Installation
-import pandas as pd
-import streamlit as st
-import altair as alt
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
+import pandas as pd<br/>
+import streamlit as st<br/>
+import altair as alt<br/>
+import numpy as np<br/>
+import plotly.express as px<br/>
+import plotly.graph_objects as go<br/>
