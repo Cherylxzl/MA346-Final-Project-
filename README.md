@@ -11,3 +11,10 @@ This Project mainly focuses on analyzing the fatcors that could possibly affect 
 Built with plotly
 ## Features
 Map, bar chart, sunburst chart, and an interactive dashboard are used in this project to demonstrate the best visualization.
+##Installation
+import pandas as pd
+import streamlit as st
+import altair as alt
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
