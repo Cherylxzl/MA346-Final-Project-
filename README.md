@@ -13,7 +13,7 @@ Built with plotly
 ## Features
 Map, bar chart, sunburst chart, and an interactive dashboard are used in this project to demonstrate the best visualization.
 
-##Installation
+## Installation
 import pandas as pd
 import streamlit as st
 import altair as alt
